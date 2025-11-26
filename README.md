@@ -2,3 +2,5 @@
 Aquest repositori guarda el codi fet servir per al TDR "Vist des del cel".
 
 El repositori només conté el codi, res més.
+
+Per a poder obrir el codi entra al document anomenat "CodiCompletTDR".
